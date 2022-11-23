@@ -2,8 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/to-caiyun',
-  unoptimized: true,
+  images: {
+    unoptimized: true,
+  },
 };
 
 module.exports = nextConfig;
