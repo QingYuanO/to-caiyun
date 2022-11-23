@@ -9,7 +9,6 @@ export default function Home() {
         <title>送给彩云的</title>
       </Head>
       <div className={styles.heart}> </div>
-      <div className='text-red-400'>test</div>
     </div>
   );
 }
