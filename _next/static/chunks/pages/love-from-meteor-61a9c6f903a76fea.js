@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[725],{2737:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/love-from-meteor",function(){return u(4591)}])},4591:function(n,e,u){"use strict";u.r(e);var t=u(5893);u(7294);let _=()=>(0,t.jsx)("div",{children:"inxex"});e.default=_}},function(n){n.O(0,[774,888,179],function(){return n(n.s=2737)}),_N_E=n.O()}]);
